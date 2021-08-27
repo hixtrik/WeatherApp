@@ -1,4 +1,4 @@
 # WeatherApp
 WeatherApp only ui
 
-<img src="./img/weatherApp.jpg" width="700">
+<img src="./img/weatherapp.jpg" width="700">
